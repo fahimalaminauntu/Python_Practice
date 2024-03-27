@@ -1,2 +1,2 @@
-Num=43.69
+Num = 43.69
 print(type(Num))
